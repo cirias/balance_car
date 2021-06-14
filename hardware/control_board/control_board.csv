@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**,REF**";"TestPoint_Plated_Hole_D3.0mm";4;"TestPoint_Plated_Hole_D3.0mm";;;
+2;"U3";"TB6612FNG";1;"TB6612FNG";;;
+3;"J2";"JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical";1;"MOTOR_A";;;
+4;"J3";"JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical";1;"MOTOR_B";;;
+5;"J1";"JST_VH_B2PS-VH_1x02_P3.96mm_Horizontal";1;"POWER";;;
+6;"U1";"NodeMCU-32S_20Pins";1;"NodeMCU-32S";;;
+7;"U2";"GY521";1;"GY521";;;
